@@ -2,7 +2,7 @@
 
 ## 🌟 Nuestro Equipo
 
-### ![Foto de Andres](Fotos/unadfoto.jpg)
+### ![Foto de Andres](Fotos/unadfotovega.jpg)
 ### Andres Felipe Vega Gomez
 🖥**Rol:** Game Illustrator 
 📍**Ubicación:** Duitama-Boyaca 
