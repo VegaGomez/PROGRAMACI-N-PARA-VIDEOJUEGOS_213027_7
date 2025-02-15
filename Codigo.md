@@ -9,3 +9,8 @@
 **Perfil:** Apasionado por la tecnología y los videojuegos. Pasando el septimo semestre de Ingenieria Multimedia.
 
 ---
+
+### David Fernandez  
+🖥 **Rol:** Game Tester  
+📍 **Ubicación:** (Yopal/Casanare)  
+📌 **Descripción:** Me encargo de probar el videojuego para detectar errores y asegurarme de que la experiencia sea fluida y sin fallos.  
