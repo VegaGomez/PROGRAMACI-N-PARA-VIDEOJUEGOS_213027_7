@@ -9,7 +9,7 @@
 📌**Perfil:** Apasionado por la tecnología y los videojuegos. Pasando el septimo semestre de Ingenieria Multimedia.
 
 ---
-
+### ![Foto de David](Fotos/unadfotodavid.jpg)
 ### David Fernandez  
 🖥 **Rol:** Game Tester  
 📍 **Ubicación:** (Yopal/Casanare)  
