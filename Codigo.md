@@ -5,7 +5,7 @@
 ### ![Foto de Andres](Fotos/unadfotovega.jpg)
 ### Andres Felipe Vega Gomez
 🖥**Rol:** Game Illustrator 
-📍**Ubicación:** Duitama-Boyaca 
+📍**Ubicación:** Duitama-Boyacá 
 📌**Perfil:** Apasionado por la tecnología y los videojuegos. Pasando el septimo semestre de Ingenieria Multimedia.
 
 ---
@@ -19,7 +19,7 @@
 ### ![Foto de Luis](Fotos/unadfotoluis.jpg)
 ### Luis Carlos Castillo Perez
 🖥**Rol:** Level Designer
-📍**Ubicación:** Duitama-Boyaca 
+📍**Ubicación:** Duitama-Boyacá 
 📌**Descripción:** Me encargo de diseñar los niveles o escenarios de un videojuego, definiendo su estructura, mecánicas, ritmo y desafíos para ofrecer una experiencia equilibrada y divertida.
 
 ---
@@ -27,5 +27,5 @@
 ### Darian Nathaly Araque Viera
 🖥**Rol:** Game Designer
 📌**Descripción del rol:** Un Game Designer es el responsable de diseñar la experiencia de juego, definiendo las mecánicas, reglas, niveles y narrativa del mismo  para asegurar que sea divertido y atractivo para los jugadores. 
-📍**Ubicación:** Socha-Boyaca 
-📌**Perfil:** Soy una persona creativa, amante de la illustración y tecnología.
+📍**Ubicación:** Socha-Boyacá 
+📌**Perfil:** Soy una persona creativa, amante de la illustración y la tecnología.
